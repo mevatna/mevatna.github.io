@@ -1,6 +1,9 @@
 body{
-	color: blue;
-	margin-left:100px;
+	color: #6a38ff;
+	margin-left:500px;
+	background-color: #ccccff;
+	background-position: center;
+	width: 960px;
 }
 h1{
 }
@@ -10,3 +13,26 @@ h1{
 .info-me{
 	padding: 10px;
 }
+.avatar{
+	border-radius: 50px;
+}
+.download{
+	margin-left:80px;
+}
+.header-email {
+  padding-left: 30px;
+  background-image: url("img/icon-email-header.svg");
+  margin: 0 auto;
+  padding: 0 16px;
+  margin: 0 0 160px;
+  background-repeat: no-repeat;
+}
+
+.header-phone {
+  padding-left: 25px;
+  background-image: url("img/icon-phone-header.svg");
+  margin: 0 auto;
+  padding: 0 16px;
+  background-repeat: no-repeat;
+}
+	
